@@ -20,11 +20,11 @@ This site visually reimagines **YouTube’s homepage** with an **Eminem-inspired
 
 The latest update focused on **design optimization** and **structural improvements**:
 
-- Unified layout structure for better readability  
-- Organized images and icons in dedicated folders (`/assets`)  
-- Improved responsive behavior across various screen sizes  
-- Simplified CSS classes for maintainability  
-- Added placeholders for next HTML and CSS sections to expand project scope
+- Unified layout structure for better readability.  
+- Organized images and icons in dedicated folders (`/assets`).  
+- Improved responsive behavior across various screen sizes.  
+- Simplified CSS classes for maintainability.  
+- Added placeholders for next HTML and CSS sections to expand project scope.
 
 ---
 
