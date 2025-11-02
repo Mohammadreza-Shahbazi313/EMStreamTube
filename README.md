@@ -9,22 +9,28 @@ This site visually reimagines **YouTube’s homepage** with an **Eminem-inspired
 
 - ✅ **Homepage layout** inspired by YouTube’s interface  
 - ✅ Integrated **Eminem-themed thumbnails & visuals**  
-- ✅ Fully structured with clean HTML and external CSS  
-- ✅ Base **responsive design** setup using Flexbox & Grid  
-- 🔧 Currently refining **layout spacing and media queries**  
+- ✅ Fully structured using HTML + external CSS architecture
+- ✅ Responsive design setup with Flexbox and Grid
+- ✅ Added organized /assets folder for images and icons  
+- 🔧 Currently refining media queries and spacing balance
 - 🎯 **Next step:** polish typography and prepare for GitHub Pages deployment  
 
 ---
 
 ## 💾 Recent Update
 
-The latest update focused on **design optimization** and **structural improvements**:
+The latest update focused on code cleanup, responsive improvements, and layout optimization:
 
-- Unified layout structure for better readability.  
-- Organized images and icons in dedicated folders (`/assets`).  
-- Improved responsive behavior across various screen sizes.  
-- Simplified CSS classes for maintainability.  
-- Added placeholders for next HTML and CSS sections to expand project scope.
+- Added HTML and CSS base structure for main interface
+
+- Improved visual hierarchy and consistency across elements
+
+- Moved all image assets to /assets folder
+
+- Updated README.md with refined project details
+
+- Prepared base for future sections (video grid, sidebar, header refinements)
+  
 
 ---
 
@@ -57,3 +63,4 @@ The goal is to explore how large-scale websites like YouTube can be rebuilt with
 ---
 
 > _“Every layout is a lyric — code your rhythm.”_ 🎧💻
+> — *M.SH, Creator of EMStreamTube*
