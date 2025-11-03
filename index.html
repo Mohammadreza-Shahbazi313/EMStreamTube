@@ -15,12 +15,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
     <title>EMStreamTube</title>
+    <!-- Add your FontAwesome key below if needed -->
+    <!-- <script src="https://kit.fontawesome.com/YOUR-KEY-HERE.js" crossorigin="anonymous"></script> -->
     <!-- <script ></script>  read below!! -->
     <!-- src="https://kit.fontawesome.com/ ur site key here"  -->
 </head>
 
 <body>
+  <!-- ================= HEADER SECTION ================= -->
     <div class="header">
+      <!-- Left Section (Menu + Logo) -->
         <div class="leftsec">
             <div class="menubtn"> <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"
                     focusable="false" aria-hidden="true"
@@ -28,9 +32,10 @@
                     <path d="M21 6H3V5h18v1zm0 5H3v1h18v-1zm0 6H3v1h18v-1z"></path>
                 </svg></div>
 
-
+            <!-- YouTube Icon (Eminem Theme) -->
             <img src="assets/images/youtube-icon.png" alt="YT-icon">
         </div>
+        <!-- Middle Section (Search Bar) -->
         <div class="middlesec">
             <input type="text" class="search" placeholder="search...">
             <button class="searchbtn">
@@ -46,9 +51,11 @@
                 </div>
             </button>
         </div>
+      <!-- Right Section (Icons + Profile) -->
         <div class="rightsec">
 
             <div class="addtip">
+              <!-- Upload Video Icon -->
                 <div class="iconbtn addtip">
                     <svg class="addvid" xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 640 640">
@@ -60,7 +67,7 @@
                     add your video
                 </div>
             </div>
-
+              <!-- Grid Layout Icon -->
             <div class="addtip">
                 <div class="iconbtn addtip">
                     <img class="gridicon" src="assets/images/grid-icon.jpg" alt="grid">
@@ -69,7 +76,7 @@
                     grid layout
                 </div>
             </div>
-
+            <!-- Notification Icon -->
             <div class="bellnotif">
                 <div class="addtip">
                     <div class="iconbtn addtip">
@@ -87,7 +94,7 @@
                     </div>
                 </div>
             </div>
-
+            <!-- Profile Icon -->
             <div class="addtip">
                 <div class="iconbtn addtip">
                     <img class="accicon" src="assets/images/thumbnail-1.jpg" alt="acclogo">
@@ -96,11 +103,15 @@
                     profile
                 </div>
             </div>
+          <!-- ================= END HEADER ================= -->
 
+          <!-- ================= SIDEBAR SECTION ================= -->
         </div>
     </div>
     <div class="sidebar">
+      <!-- Each Sidebar Item -->
         <div class="sidebarlink">
+          <!-- Home Icon -->
             <div class="mysvg"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" height="24"
                     viewBox="0 0 24 24" width="24" focusable="false" aria-hidden="true"
                     style="pointer-events: none; display: inherit; width: 100%; height: 100%;">
@@ -170,7 +181,10 @@
             </div>
         </div>
     </div>
+  <!-- ================= END SIDEBAR ================= -->
 
+  
+  <!-- ================= MAIN CONTENT (VIDEO GRID) ================= -->
     <div class="containergrid">
         <div class="container">
             <div class="thumbnail">
@@ -306,6 +320,7 @@
         </div>
 
     </div>
+  <!-- ================= END MAIN CONTENT ================= -->
 </body>
 
 </html>
