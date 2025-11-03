@@ -5,6 +5,7 @@
 📅 2025
 ============================================================ */
 
+/* ================= GENERAL LAYOUT ================= */
 body {
     margin: 0;
     margin-bottom: 500px;
@@ -12,6 +13,7 @@ body {
     padding-left: 80px;
 }
 
+/* Typography */
 p {
     margin-top: 0px;
     font-family: cursive;
@@ -43,6 +45,7 @@ p {
     border-radius: 3px;
 }
 
+/* ================= THUMBNAILS ================= */
 .thumbnail {
     width: 100%;
     aspect-ratio: 16/9;
@@ -125,6 +128,7 @@ p {
     grid-template-columns: 50px 1fr;
 }
 
+/* ================= VIDEO CONTAINER ================= */
 .containergrid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -134,6 +138,7 @@ p {
     margin-right: 20px;
 }
 
+/* Responsive grid setup */
 @media (max-width : 780px) {
     .containergrid {
         grid-template-columns: 1fr 1fr;
@@ -152,6 +157,7 @@ p {
     }
 }
 
+/* ================= HEADER SECTION ================= */
 .header {
     height: 60px;
     display: flex;
@@ -167,6 +173,7 @@ p {
     z-index: 1;
 }
 
+/* Left: Menu & Logo */
 .leftsec {
     width: 150px;
     display: flex;
@@ -215,6 +222,7 @@ p {
     height: 25px !important;
 }
 
+/* Middle: Search */
 .middlesec {
     flex: 1;
     max-width: 500px;
@@ -222,6 +230,7 @@ p {
     align-items: center;
 }
 
+/* Right: Icons */
 .rightsec {
     width: 170px;
     display: flex;
@@ -254,6 +263,7 @@ p {
     opacity: 1;
 }
 
+/* Tooltip setup */
 .tooltip {
     position: absolute;
     bottom: -42px;
@@ -282,7 +292,7 @@ p {
     cursor: pointer;
     background-color: rgb(227, 227, 227);
 }
-
+/* ================= BUTTONS & ICONS ================= */
 .micbtn,
 .searchbtn,
 .addtip {
@@ -337,6 +347,7 @@ p {
 
 }
 
+/* ================= SIDEBAR ================= */
 .sidebar {
     position: fixed;
     left: 0;
@@ -462,3 +473,7 @@ p {
     position: absolute;
     z-index: 1;
 */
+
+/* ================= FOOTER NOTE ================= */
+/* End of EMStreamTube CSS file */
+/* “Every layout is a lyric — code your rhythm.” 🎧💻 */
