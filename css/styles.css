@@ -186,21 +186,6 @@ p {
   height: 90px;
 }
 
-/* .leftsec svg{
-    height: 24px !important;
-    width: 35px !important;
-    margin-right: 15px;
-    margin-left: 12px;
-    padding: 8px;                
-    border-radius: 50%;          
-    transition: all 0.3s;
-
-}
-
-.leftsec svg:hover {
-    background-color:rgba(223, 223, 223);
-    cursor: pointer;  
-} */
 .menubtn {
   display: flex;
   align-items: center;
