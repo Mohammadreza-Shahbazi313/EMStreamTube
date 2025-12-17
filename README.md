@@ -12,7 +12,6 @@ This site visually reimagines **YouTube’s homepage** with an **Eminem-inspired
 - ✅ Fully structured using HTML + external CSS architecture
 - ✅ Responsive design setup with Flexbox and Grid
 - ✅ Added organized /assets folder for images and icons  
-- 🔧 Currently refining media queries and spacing balance
 
 ---
 
