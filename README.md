@@ -1,6 +1,6 @@
 # 🎬 EMStreamTube
 
-A creative and educational front-end project by **Mohammadreza Shahbazi (M.SH)**.  
+A creative and educational front-end project by **Mohammadreza Shahbazi **.  
 This site visually reimagines **YouTube’s homepage** with an **Eminem-inspired theme**, built purely with **HTML** and **CSS** as a learning and design experiment.
 
 ---
