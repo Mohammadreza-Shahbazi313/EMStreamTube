@@ -29,12 +29,19 @@ The latest update focused on code cleanup, responsive improvements, and layout o
 
 - Prepared base for future sections (video grid, sidebar, header refinements)
 ---
-##🛠️ Installation & Usage
-  1.Clone the repository:
+
+
+## 🛠️ Installation & Usage
+
+1. Clone the repository:
+   ```bash
     git clone https://github.com/Mohammadreza-Shahbazi313/EMStreamTube.git
-  2.Navigate to the project folder:
+   
+2. Navigate to the project folder:
+   ```bash
     cd EMStreamTube
-  3.Open index.html in your web browser.
+  
+3. Open index.html in your web browser.
 
 ---
 
