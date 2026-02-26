@@ -34,14 +34,16 @@ The latest update focused on code cleanup, responsive improvements, and layout o
 ## 🛠️ Installation & Usage
 
 1. Clone the repository:
+
    ```bash
     git clone https://github.com/Mohammadreza-Shahbazi313/EMStreamTube.git
    
-2. Navigate to the project folder:
+3. Navigate to the project folder:
+
    ```bash
     cd EMStreamTube
   
-3. Open index.html in your web browser.
+5. Open index.html in your web browser.
 
 ---
 
